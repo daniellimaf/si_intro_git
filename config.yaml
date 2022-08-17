@@ -1,0 +1,5 @@
+database
+  user:daniel
+  password:123
+server
+  port:8080
